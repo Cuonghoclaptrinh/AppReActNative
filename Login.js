@@ -19,7 +19,7 @@ const LoginScreen = () => {
       {/* Mô tả */}
       <Text style={styles.subtitle}>Nhập số điện thoại</Text>
       <Text style={styles.description}>
-        Dùng số điện thoại để đăng nhập hoặc đăng ký tài khoản tại GiaHuy Corporation
+        Dùng số điện thoại để đăng nhập hoặc đăng ký tài khoản tại DoManhCuong
       </Text>
 
       {/* Ô nhập số điện thoại */}
